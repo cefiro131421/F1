@@ -5,7 +5,7 @@
   "sites": [
     {
       "key": "T4_douban",
-      "name": "原来是唐鑫🍀，更新时间：2022/11/07",
+      "name": "原来是唐鑫🍀，更新时间：2022/11/06",
       "type": 4,
       "api": "http://top.fuqizhishi.com/vod",
       "searchable": 1,
@@ -1472,7 +1472,7 @@
         {
           "name": "live",
           "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRsYWIuY29tL3Rhbmd4aW44MDY2MS90dmJveC8tL3Jhdy9tYWluL3kudHh0="
+            "proxy://do=live&type=txt&ext="
           ]
         }
       ]
@@ -1502,7 +1502,7 @@
 {
 		"name": "多多测试",
 		"type": 0,
-		"url": "https://h5.freejson.xyz/player/?url=",
+		"url": "https://h5.freejson.xyz/player/?url=aHR0cHM6Ly9naXRsYWIuY29tL3Rhbmd4aW44MDY2MS90dmJveC8tL3Jhdy9tYWluL3kudHh0",
 		"ext": {
 			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
 		}    
