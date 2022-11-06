@@ -5,7 +5,7 @@
   "sites": [
     {
       "key": "T4_douban",
-      "name": "原来是唐鑫🍀，更新时间：2022/11/06",
+      "name": "原来是唐鑫🍀，更新时间：2022/11/09",
       "type": 4,
       "api": "http://top.fuqizhishi.com/vod",
       "searchable": 1,
@@ -1472,8 +1472,7 @@
         {
           "name": "live",
           "urls": [
-            "proxy://do=live&type=txt&ext=https://gitlab.com/tangxin80661/tvbox/-/raw/main/y.txt
-"
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRsYWIuY29tL3Rhbmd4aW44MDY2MS90dmJveC8tL3Jhdy9tYWluL3kudHh0"
           ]
         }
       ]
