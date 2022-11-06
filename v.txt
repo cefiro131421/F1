@@ -1,4 +1,4 @@
-﻿//友情提醒：本接口中的网络资源均来自于网络和各位互联网大佬的仓库，经各种整合而成，只为方便小白使用，如有冒犯请联系删除
+//友情提醒：本接口中的网络资源均来自于网络和各位互联网大佬的仓库，经各种整合而成，只为方便小白使用，如有冒犯请联系删除
 //盗用接口可耻
 
 {
@@ -1472,7 +1472,8 @@
         {
           "name": "live",
           "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHMlM0EvL2dpdGxhYi5jb20vdGFuZ3hpbjgwNjYxL3R2Ym94Ly0vcmF3L21haW4veS50eHQ="
+            "proxy://do=live&type=txt&ext=https://gitlab.com/tangxin80661/tvbox/-/raw/main/y.txt
+"
           ]
         }
       ]
