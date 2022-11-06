@@ -1,11 +1,11 @@
-//友情提醒：本接口中的网络资源均来自于网络和各位互联网大佬的仓库，经各种整合而成，只为方便小白使用，如有冒犯请联系删除
+//大聪明友情提醒：本接口中的网络资源均来自于网络和各位互联网大佬的仓库，经各种整合而成，只为方便小白使用，如有冒犯请联系删除
 //盗用接口可耻
-
+//关注公众号【应用多多】回复“接口”，获取最新接口
 {
   "sites": [
     {
       "key": "T4_douban",
-      "name": "原来是唐鑫🍀，更新时间：2022/11/07",
+      "name": "🍀公众号：应用多多，更新时间：2022/11/05",
       "type": 4,
       "api": "http://top.fuqizhishi.com/vod",
       "searchable": 1,
@@ -1472,7 +1472,7 @@
         {
           "name": "live",
           "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRsYWIuY29tL3Rhbmd4aW44MDY2MS90dmJveC8tL3Jhdy9tYWluL3kudHh0"
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRsYWIuY29tL2R1b212L2R1by8tL3Jhdy9tYWluL3R4dC92LnR4dA=="
           ]
         }
       ]
