@@ -1,4 +1,4 @@
-//长期维护添加微信tangxin8066
+//长期维护添加微信tangxin1998
 {
   "sites": [
 {
@@ -23,7 +23,7 @@
     },
         {
       "key": "APPTT",
-      "name": "微信tangxin8066",
+      "name": "微信tangxin1998",
       "type": 3,
       "api": "csp_AppTT",
       "searchable": 1,
