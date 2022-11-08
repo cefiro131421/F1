@@ -1,10 +1,9 @@
-//友情提醒：本接口中的网络资源均来自于网络，经各种整合而成，只为方便小白使用，如有冒犯请联系删除
 //长期维护添加微信tangxin8066
 {
   "sites": [
 {
       "key": "T4_douban",
-      "name": "数据是空的切换第二个首页即可",
+      "name": "数据是空的设置里面切换第二个首页即可",
       "type": 4,
       "api": "http://top.fuqizhishi.com/vod",
       "searchable": 1,
