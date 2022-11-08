@@ -1,15 +1,7 @@
 //长期维护添加微信tangxin8066
 {
   "sites": [
-{
-      "key": "T4_douban",
-      "name": "数据是空的设置里面切换第二个首页即可",
-      "type": 4,
-      "api": "http://top.fuqizhishi.com/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },    
+   
 {"key":"csp_apple","name":"原来是唐鑫🍀，更新时间：2022/11/08",
      "type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
     {
