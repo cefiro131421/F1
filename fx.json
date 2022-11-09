@@ -710,50 +710,6 @@
       "filterable": 0
     },
     {
-      "key": "Gitcafe",
-      "name": "🔖小纸条",
-      "type": 3,
-      "api": "csp_Gitcafe",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext":"5e8a0d48c3f4486a843351c716c1af66",
-      "jar":"https://gitlab.com/duomv/duo/-/raw/main/jar/ali.zip"
-    },
-    {
-      "key": "csp_Zhaozy",
-      "name": "🔍找资源(仅搜索)",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext":"5e8a0d48c3f4486a843351c716c1af66",
-      "jar":"https://gitlab.com/duomv/duo/-/raw/main/jar/sou.jar"
-    },
-    {
-      "key": "csp_Yisou",
-      "name": "🎯易搜(仅搜索)",
-      "type": 3,
-      "api": "csp_Yisou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext":"5e8a0d48c3f4486a843351c716c1af66",
-      "jar":"https://gitlab.com/duomv/duo/-/raw/main/jar/sou.jar"
-    },
-    {
-      "key": "csp_AliPS",
-      "name": "📀盘搜(仅搜索)",
-      "type": 3,
-      "api": "csp_AliPS",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext":"5e8a0d48c3f4486a843351c716c1af66",
-      "jar":"https://gitlab.com/duomv/duo/-/raw/main/jar/sou.jar"
-    },
-    {
       "key": "push_agent",
       "name": "📨推送",
       "type": 3,
