@@ -3,7 +3,7 @@
   "sites": [
 {
       "key":"js豆瓣",
-      "name":"原来是唐鑫🍀，更新时间：2022/11/12",
+      "name":"原来是唐鑫🍀，更新时间：2022/11/012",
       "type":3,
       "api":"https://gitlab.com/tangxin80661/tx/-/raw/main/sj/drpymin.js",
       "ext":"https://gitlab.com/tangxin80661/tx/-/raw/main/sj/douban.js",
@@ -55,6 +55,16 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+{
+      "key":"csp_XYQBiu_短视频",
+      "name":"📱短视频分享(XYQ)",
+      "type":3,
+      "api":"csp_XYQBiu",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":0,
+       "ext":"https://download.kstore.space/download/3566/tangxin1998/dsp.json"
     },
     {
       "key": "360_spider",
@@ -1463,7 +1473,7 @@
       "url": "Sequence"
     },
 {
-		"name": "多多测试",
+		"name": "唐鑫测试",
 		"type": 0,
 		"url": "https://h5.freejson.xyz/player/?url=",
 		"ext": {
@@ -1471,12 +1481,7 @@
 		}    
 	},
     {
-      "name": "唐鑫专用",
-      "type": 0,
-      "url": "https://jx.wangyh.cf/m3u8/?url="
-    },
-    {
-      "name": "唐鑫自建稳定",
+      "name": "微信tangxin1998",
       "type": 0,
       "url": "https://jx.bozrc.com:4433/player/?url=",
       "ext": {
@@ -1619,7 +1624,7 @@
     },
   {
       "name": "多多②线",
-      "type": 1,
+      "type": 0,
       "url": "http://newjiexi.gotka.top/keyu3.php?url=",
       "ext": {
         "flag": [
@@ -1878,7 +1883,7 @@
       }
     },
     {
-      "name":"多多⑭线",
+      "name":"原来是唐鑫",
       "type":1,
       "url":"https://play.fuqizhishi.com/jx2/API.php?appkey=iiiixiaobai&url=",
       "ext": {
