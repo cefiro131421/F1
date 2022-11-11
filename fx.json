@@ -11,6 +11,14 @@
       "quickSearch": 0,
       "filterable": 0
       },
+{"key": "csp_XYQBiu_555ys",
+"name":"555ys(XYQ)",
+"type":3,
+"api":"csp_XYQBiu",
+"searchable":1,
+"quickSearch":1,
+"filterable":1,
+"ext":"https://gitlab.com/tangxin80661/tx/-/raw/main/sj/555dy.json"},
     {
       "key": "csp_Kunyu77",
       "name": "🍁多多七七",
