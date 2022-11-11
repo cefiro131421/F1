@@ -11,6 +11,16 @@
       "quickSearch": 0,
       "filterable": 0
       },
+      {
+      "key": "555电影",
+      "name": "🍀555电影(XB)",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://gitlab.com/tangxin80661/tx/-/raw/main/555dy.json"
+    },
     {
       "key": "csp_Kunyu77",
       "name": "🍁多多七七",
