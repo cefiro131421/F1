@@ -3,7 +3,7 @@
   "sites": [
 {
       "key":"js豆瓣",
-      "name":"原来是唐鑫🍀，更新时间：2022/11/13",
+      "name":"原来是唐鑫🍀，更新时间：2022/11/12",
       "type":3,
       "api":"https://gitlab.com/tangxin80661/tx/-/raw/main/sj/drpymin.js",
       "ext":"https://gitlab.com/tangxin80661/tx/-/raw/main/sj/douban.js",
@@ -2357,6 +2357,7 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-  "wallpaper": "https://www.yydsys.top/api.php",
+  "wallpaper": "https://api.ixiaowai.cn/gqapi/gqapi.php
+",
   "spider": "https://gitlab.com/duomv/duo/-/raw/main/jar/1105.jar;md5;0B0EF0D93F6361333B36A28C6EC22757"
 }
