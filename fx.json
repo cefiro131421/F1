@@ -364,13 +364,13 @@
     },
     {
 		"key": "py_libvio",
-		"name": "🍲libvio（PY）",
+		"name": "🍲libvio",
 		"type": 3,
 		"api": "py_libvio",
 		"searchable": 0,
 		"quickSearch": 0,
 		"filterable": 1,
-		"ext": "https://gitlab.com/duomv/duo/-/raw/main/json/pylibvio.py"
+		"ext": "https://gitlab.com/tangxin80661/tx/-/raw/main/sj/LIBVIO.js"
 	},
     {
       "key": "csp_xb_lib",
