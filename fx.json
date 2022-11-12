@@ -362,26 +362,13 @@
       "filterable": 1,
       "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.json"
     },
-    {
-		"key": "py_libvio",
-		"name": "🍲libvio",
-		"type": 3,
-		"api": "py_libvio",
-		"searchable": 0,
-		"quickSearch": 0,
-		"filterable": 1,
-		"ext": "https://gitlab.com/tangxin80661/tx/-/raw/main/sj/LIBVIO.js"
-	},
-    {
-      "key": "csp_xb_lib",
-      "name": "🍲LIBVIO(XB)",
-      "type": 3,
-      "api": "csp_XBiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": " https://www.libvio.me/type/{cateId}-{catePg}.html"
-    },
+            {
+            "key" : "drpy_js_LIBVIO",
+            "name" : "影视|荔波[DRPY]",
+            "type" : 3,
+            "api" : "https://gitlab.com/tangxin80661/tx/-/raw/main/sj/drpymin.js",
+            "ext" : "https://gitlab.com/tangxin80661/tx/-/raw/main/sj/LIBVIO.js"
+        },
     {
       "key": "bdys",
       "name": "📯哔嘀影视",
