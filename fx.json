@@ -11,8 +11,8 @@
       "quickSearch": 0,
       "filterable": 0
       },
- {"key":"csp_xBPQ_23影视","name":"23影视(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitlab.com/tangxin80661/tx/-/raw/main/json/23%E5%BD%B1%E8%A7%86.json"},
-{"key":"csp_xBPQ_e9视频","name":"e9视频(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitlab.com/tangxin80661/tx/-/raw/main/json/e9%E8%A7%86%E9%A2%91.json"},
+ {"key":"csp_xBPQ_23影视","name":"🍀23影视(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitlab.com/tangxin80661/tx/-/raw/main/json/23%E5%BD%B1%E8%A7%86.json"},
+{"key":"csp_xBPQ_e9视频","name":"🍀e9视频(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitlab.com/tangxin80661/tx/-/raw/main/json/e9%E8%A7%86%E9%A2%91.json"},
     {
       "key": "csp_Kunyu77",
       "name": "🍁多多七七",
