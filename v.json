@@ -2233,6 +2233,6 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-  "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-  "spider": "https://gitlab.com/duomv/duo/-/raw/main/jar/duov.jar;md5;89c9eaec380dc16ec274b772346270ba"
+  "wallpaper": "https://api.ixiaowai.cn/gqapi/gqapi.php",
+"spider": "https://gitlab.com/tangxin80661/tx/-/raw/main/sj/tangxin.jar"
 }
