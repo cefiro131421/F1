@@ -125,8 +125,8 @@
       "categories": ["国产剧", "日韩剧", "港台剧", "欧美剧", "综艺", "动漫", "动作片", "科幻片", "战争片", "喜剧片", "爱情片", "恐怖片", "剧情片"]
     },
     {
-        "key":"多多资源",
-        "name":"🍵多多资源",
+        "key":"鑫鑫资源",
+        "name":"🍵鑫鑫资源",
         "quickSearch":1,
         "searchable":1,
         "type":1,
@@ -173,7 +173,7 @@
     },
     {
       "key": "搭讪",
-      "name": "💋多多搭讪",
+      "name": "💋鑫鑫搭讪",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -183,7 +183,7 @@
     },
     {
       "key": "搭配",
-      "name": "💃多多搭配",
+      "name": "💃鑫鑫搭配",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1248,8 +1248,8 @@
       "ext": "http://www.cccvvv.top/api.php/iptv/vod/"
     },
     {
-      "key": "多多",
-      "name": "🐶多多影视",
+      "key": "鑫鑫",
+      "name": "🐶鑫鑫影视",
       "type": 1,
       "api": "https://www.ddzyz1.com/api.php/provide/vod/",
       "searchable": 1,
@@ -1322,8 +1322,8 @@
       "ext": "http://app.wnvod.net/lvdou_api.php/v1.vod"
     },
     {
-      "key": "多多资源",
-      "name": "🍊多多资源",
+      "key": "鑫鑫资源",
+      "name": "🍊鑫鑫资源",
       "type": 1,
       "api": "https://www.ddzyz1.com/api.php/provide/vod/",
       "searchable": 0,
@@ -1331,8 +1331,8 @@
       "filterable": 0
     },
     {
-      "key": "多多资源2",
-      "name": "🥬多多资源",
+      "key": "鑫鑫资源2",
+      "name": "🥬鑫鑫资源",
       "type": 1,
       "api": "https://a.7dyu.cn/api.php/provide/vod/",
       "searchable": 0,
