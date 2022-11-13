@@ -819,39 +819,6 @@
     },
 
     {
-      "key": "csp_Zhaozy",
-      "name": "🔍找资源",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext":"5e8a0d48c3f4486a843351c716c1af66",
-      "jar":"https://gitlab.com/tangxin80661/tx/-/raw/main/jar/sou.jar"
-    },
-    {
-      "key": "csp_Yisou",
-      "name": "🎯易搜",
-      "type": 3,
-      "api": "csp_Yisou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext":"5e8a0d48c3f4486a843351c716c1af66",
-      "jar":"https://gitlab.com/tangxin80661/tx/-/raw/main/jar/sou.jar"
-    },
-    {
-      "key": "csp_AliPS",
-      "name": "📀盘搜",
-      "type": 3,
-      "api": "csp_AliPS",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext":"5e8a0d48c3f4486a843351c716c1af66",
-      "jar":"https://gitlab.com/tangxin80661/tx/-/raw/main/jar/sou.jar"
-    },
-    {
       "key": "push_agent",
       "name": "📨推送",
       "type": 3,
@@ -2235,6 +2202,6 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-  "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-  "spider": "https://gitlab.com/duomv/duo/-/raw/main/jar/duov.jar;md5;89c9eaec380dc16ec274b772346270ba"
+  "wallpaper": "https://api.ixiaowai.cn/gqapi/gqapi.php",
+"spider": "https://gitlab.com/tangxin80661/tx/-/raw/main/sj/tangxin.jar"
 }
