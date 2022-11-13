@@ -1,24 +1,11 @@
-{
-  "作者": "菜妮丝https://cainisi.cf",
-  "站名": "555电影",
-  "主页url": "https://zhenfanjixie.com",
-  
-  "分类": "Netflix&电影&连续剧&动漫&综艺记录",
-  "分类值": "/label/netflix&/vodtype/1&/vodtype/2&/vodtype/4&/vodtype/3",
-  
-  "分类url": "https://zhenfanjixie.com{cateId}/page/{catePg}.html",
-  
-  "副标题": "module-item-note\">&&</div>",
-  
-  "搜索模式": "0",
-  "搜索后缀":"/voddetail/",
-  
-  "导演": "导演：&&</div>",
-  "主演": "主演：&&</div>",
-  "简介": "<p>&&</p>",
-  
-  "线路数组": "data-dropdown-value=&&</div>",
-  "线路标题": "<span>&&</small>[替换:</span><small>>>👉]+集♥",
-  
-  "播放数组": "module-play-list\">&&</div>"
-}
+var rule = Object.assign(muban.mxpro,{
+title:'555影视',
+// host:'https://www.555dy.app',
+// host:'https://www.555yy2.com/',
+// host:'https://www.555yy1.com/',
+host:'https://www.555pian.com',
+headers:{//网站的请求头,完整支持所有的,常带ua和cookies
+    'User-Agent':'MOBILE_UA',
+    "Cookie": "searchneed=ok"
+},
+});
