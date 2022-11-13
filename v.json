@@ -23,7 +23,7 @@
     },
     {
       "key": "csp_Kunyu77",
-      "name": "🍁多多七七",
+      "name": "🍁鑫鑫七七",
       "type": 3,
       "api": "csp_Kunyu77",
       "searchable": 1,
@@ -40,11 +40,14 @@
       "filterable": 1
     },
     {
-      "key": "drpy_js_看视界",
-      "name": "🎉看视界🎉",
+      "key": "csp_xBPQ_LIBVIO",
+      "name": "🍲LIBVIO",
       "type": 3,
-      "api": "https://gitlab.com/duomv/duo/-/raw/main/js/yingmo.js",
-      "ext": "https://gitlab.com/duomv/duo/-/raw/main/js/ksj.js"
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://gitlab.com/tangxin80661/tx/-/raw/main/json/LIBVIO.json"
     },
     {
       "key": "csp_Nkdy",
