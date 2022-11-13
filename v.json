@@ -23,7 +23,7 @@
     },
     {
       "key": "csp_Kunyu77",
-      "name": "🍁鑫鑫七七",
+      "name": "🍁多多七七",
       "type": 3,
       "api": "csp_Kunyu77",
       "searchable": 1,
@@ -38,16 +38,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "csp_xBPQ_LIBVIO",
-      "name": "🍲LIBVIO",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://gitlab.com/tangxin80661/tx/-/raw/main/json/LIBVIO.json"
     },
     {
       "key": "drpy_js_看视界",
@@ -132,23 +122,13 @@
       "categories": ["国产剧", "日韩剧", "港台剧", "欧美剧", "综艺", "动漫", "动作片", "科幻片", "战争片", "喜剧片", "爱情片", "恐怖片", "剧情片"]
     },
     {
-        "key":"鑫鑫资源",
-        "name":"🍵鑫鑫资源",
+        "key":"多多资源",
+        "name":"🍵多多资源",
         "quickSearch":1,
         "searchable":1,
         "type":1,
         "api":"https://www.ddzyz1.com/api.php/provide/vod/"
     }, 
-    {
-      "key": "csp_XBPQ厂长资源",
-      "name": "🏭厂长(XB)",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/厂长资源.json"
-    },
     {
       "key": "Kuaikan",
       "name": "🦋快看影视",
@@ -344,6 +324,16 @@
       ]
     },
     {
+      "key": "csp_XBPQ厂长资源",
+      "name": "🏭厂长(XB)",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/厂长资源.json"
+    },
+    {
       "key": "csp_biubiu_骚火电影",
       "name": "🔥骚火电影",
       "type": 3,
@@ -353,6 +343,16 @@
       "filterable": 1,
       "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.json"
     },
+    {
+		"key": "py_libvio",
+		"name": "🍲LIB(PY)",
+		"type": 3,
+		"api": "py_libvio",
+		"searchable": 0,
+		"quickSearch": 0,
+		"filterable": 1,
+		"ext": "https://gitlab.com/duomv/duo/-/raw/main/json/pylibvio.py"
+	},
     {
       "key": "csp_xb_lib",
       "name": "🍲LIB(XB)",
@@ -840,7 +840,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext":"5e8a0d48c3f4486a843351c716c1af66",
-      "jar":"https://gitlab.com/duomv/duo/-/raw/main/jar/sou.jar"
+      "jar":"https://gitlab.com/duomv/duo/-/raw/main/jar/ali.zip"
     },
     {
       "key": "csp_Zhaozy",
@@ -851,7 +851,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext":"5e8a0d48c3f4486a843351c716c1af66",
-      "jar":"https://gitlab.com/tangxin80661/tx/-/raw/main/jar/sou.jar"
+      "jar":"https://gitlab.com/duomv/duo/-/raw/main/jar/sou.jar"
     },
     {
       "key": "csp_Yisou",
@@ -862,7 +862,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext":"5e8a0d48c3f4486a843351c716c1af66",
-      "jar":"https://gitlab.com/tangxin80661/tx/-/raw/main/jar/sou.jar"
+      "jar":"https://gitlab.com/duomv/duo/-/raw/main/jar/sou.jar"
     },
     {
       "key": "csp_AliPS",
@@ -873,7 +873,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext":"5e8a0d48c3f4486a843351c716c1af66",
-      "jar":"https://gitlab.com/tangxin80661/tx/-/raw/main/jar/sou.jar"
+      "jar":"https://gitlab.com/duomv/duo/-/raw/main/jar/sou.jar"
     },
     {
       "key": "push_agent",
@@ -884,7 +884,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "ext":"5e8a0d48c3f4486a843351c716c1af66",
-      "jar":"https://gitlab.com/tangxin80661/tx/-/raw/main/jar/sou.jar"
+      "jar":"https://gitlab.com/duomv/duo/-/raw/main/jar/sou.jar"
     },
    {
       "key": "csp_xpath_yinfans",
@@ -1319,8 +1319,8 @@
       "ext": "http://app.wnvod.net/lvdou_api.php/v1.vod"
     },
     {
-      "key": "鑫鑫资源",
-      "name": "🍊鑫鑫资源",
+      "key": "多多资源",
+      "name": "🍊多多资源",
       "type": 1,
       "api": "https://www.ddzyz1.com/api.php/provide/vod/",
       "searchable": 0,
@@ -1328,8 +1328,8 @@
       "filterable": 0
     },
     {
-      "key": "鑫鑫资源2",
-      "name": "🥬鑫鑫资源",
+      "key": "多多资源2",
+      "name": "🥬多多资源",
       "type": 1,
       "api": "https://a.7dyu.cn/api.php/provide/vod/",
       "searchable": 0,
@@ -1524,7 +1524,7 @@
         {
           "name": "live",
           "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRsYWIuY29tL3Rhbmd4aW44MDY2MS90dmJveC8tL3Jhdy9tYWluL3kudHh0"
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRsYWIuY29tL2R1b212L2R1by8tL3Jhdy9tYWluL3R4dC92LnR4dA=="
           ]
         }
       ]
@@ -1552,7 +1552,7 @@
       "url": "Sequence"
     }, 
 {
-		"name": "鑫鑫测试",
+		"name": "多多测试",
 		"type": 0,
 		"url": "https://h5.freejson.xyz/player/?url=",
 		"ext": {
@@ -1560,11 +1560,12 @@
 		}    
 	},
     {
-      "name": "原来是唐鑫",
+      "name": "多多①线",
       "type": 0,
       "url": "https://jx.xmflv.com/?url="
+    },
     {
-      "name": "微信tangxin1998",
+      "name": "多多②线",
       "type": 1,
       "url": "http://newjiexi.gotka.top/keyu3.php?url=",
       "ext": {
@@ -1594,47 +1595,12 @@
       }
     },
     {
-      "name": "鑫鑫①线",
-      "type": 0,
-      "url": "https://jx.xmflv.com/?url="
-    },
-    {
-      "name": "鑫鑫②线",
-      "type": 1,
-      "url": "http://newjiexi.gotka.top/keyu3.php?url=",
-      "ext": {
-        "flag": [
-          "imgo",
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.1.0"
-        }
-      }
-    },
-    {
-      "name": "鑫鑫③线",
+      "name": "多多③线",
       "type": 1,
       "url": "https://jx.zhanlangbu.com/?url="
     },
     {
-      "name": "鑫鑫④线",
+      "name": "多多④线",
       "type": 1,
       "url": "http://101.34.67.237:5705/parse/api/酷云.js?url=",
       "ext": {
@@ -1668,22 +1634,22 @@
       }
     },
     {
-      "name": "鑫鑫⑤线",
+      "name": "多多⑤线",
       "type": 0,
       "url": "https://play.fositv.com/?url="
     },
     {
-      "name": "鑫鑫⑥线",
+      "name": "多多⑥线",
       "type": 0,
       "url": "https://okjx.cc/?url="
     },
     {
-      "name": "鑫鑫⑦线",
+      "name": "多多⑦线",
       "type": 0,
       "url": "https://hxys.tv/bfq/?url="
     },
     {
-      "name": "鑫鑫⑧线",
+      "name": "多多⑧线",
       "type": 1,
       "url": "https://svip.rongxingvr.top/api/?key=4gb6ui9qfap4kLrvb2&url=",
       "ext": {
@@ -1718,17 +1684,17 @@
       }
     },
     {
-      "name": "鑫鑫⑨线",
+      "name": "多多⑨线",
       "type": 1,
       "url": "http://api.ckflv.cn/?url="
     },
     {
-      "name": "鑫鑫⑩线",
+      "name": "多多⑩线",
       "type": 1,
       "url": "http://jx.vipmv.co/json.php?token=123457&url="
     },
     {
-      "name": "鑫鑫⑪线",
+      "name": "多多⑪线",
       "type": 1,
       "url": "http://101.34.67.237:5705/parse/api/鸿途.js?url=",
       "ext": {
@@ -1762,7 +1728,7 @@
       }
     },
     {
-      "name": "鑫鑫⑫线",
+      "name": "多多⑫线",
       "type": 1,
       "url": "http://101.34.67.237:5705/parse/api/飞跃.js?url=",
       "ext": {
@@ -1796,7 +1762,7 @@
       }
     },
     {
-      "name": "鑫鑫⑬线",
+      "name": "多多⑬线",
       "type": 1,
       "url": "http://101.34.67.237:5705/parse/api/无名.js?url=",
       "ext": {
@@ -1830,7 +1796,7 @@
       }
     },
     {
-      "name":"鑫鑫⑭线",
+      "name":"多多⑭线",
       "type":1,
       "url":"https://play.fuqizhishi.com/jx2/API.php?appkey=iiiixiaobai&url=",
       "ext": {
@@ -1864,7 +1830,7 @@
       }
     },
     {
-      "name": "鑫鑫⑮线",
+      "name": "多多⑮线",
       "type": 1,
       "url": "https://jx.bynote.top/API.php?url=",
       "ext": {
@@ -1898,7 +1864,7 @@
       }
     },
     {
-      "name": "鑫鑫⑯线",
+      "name": "多多⑯线",
       "type": 1,
       "url": "http://api.xiaomaomi.tv/home/api?type=ys&uid=8728968&key=cdkmqvyzFIJPRT2349&url=",
       "ext": {
@@ -1933,7 +1899,7 @@
       }
     },
     {
-      "name": "鑫鑫⑰线",
+      "name": "多多⑰线",
       "type": 1,
       "url": "http://101.34.67.237:5705/parse/api/vip.js?url=",
       "ext": {
@@ -1967,7 +1933,7 @@
       }
     },
     {
-      "name": "鑫鑫⑱线",
+      "name": "多多⑱线",
       "type": 1,
       "url": "http://101.34.67.237:5705/parse/api/dyg.js?url=",
       "ext": {
@@ -2001,7 +1967,7 @@
       }
     },
     {
-      "name": "鑫鑫⑲线",
+      "name": "多多⑲线",
       "type": 1,
       "url": "http://newjiexi.gotka.top/keyu3.php?url=",
       "ext": {
@@ -2030,7 +1996,7 @@
       }
     },
     {
-      "name": "鑫鑫⑳线",
+      "name": "多多⑳线",
       "type": 1,
       "url": "http://chaloli.cn/home/api?type=ys&uid=1942949&key=adeikprtvwyCEJSXY2&url="
     }
@@ -2292,6 +2258,6 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-  "wallpaper": "https://api.ixiaowai.cn/gqapi/gqapi.php",
-"spider": "https://gitlab.com/tangxin80661/tx/-/raw/main/sj/tangxin.jar"
+  "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
+  "spider": "https://gitlab.com/duomv/duo/-/raw/main/jar/duov.jar;md5;89c9eaec380dc16ec274b772346270ba"
 }
