@@ -21,13 +21,7 @@
       "filterable": 0,
       "ext": "https://gitlab.com/tangxin80661/tx/-/raw/main/json/ningmeng.json"
     },
-            {
-            "key" : "drpy_js_完美看看",
-            "name" : "完美看看[DRPY]",
-            "type" : 3,
-            "api" : "https://gitlab.com/tangxin80661/tx/-/raw/main/lib/drpy.min.js",
-            "ext" : "https://gitlab.com/tangxin80661/tx/-/raw/main/js/%E5%AE%8C%E7%BE%8E%E7%9C%8B%E7%9C%8B.js"
-        },
+
     {
       "key": "drpy_js_大师兄影视",
       "name": "😻大师兄影视[DRPY]",
@@ -111,6 +105,13 @@
       "filterable": 0,
       "ext": "https://gitlab.com/tangxin80661/tx/-/raw/main/json/e9%E8%A7%86%E9%A2%91.json"
     },
+                {
+            "key" : "drpy_js_完美看看",
+            "name" : "🍀完美看看[DRPY]",
+            "type" : 3,
+            "api" : "https://gitlab.com/tangxin80661/tx/-/raw/main/lib/drpy.min.js",
+            "ext" : "https://gitlab.com/tangxin80661/tx/-/raw/main/js/%E5%AE%8C%E7%BE%8E%E7%9C%8B%E7%9C%8B.js"
+        },
     {
       "key": "csp_Kunyu77",
       "name": "🍁鑫鑫七七",
@@ -381,15 +382,13 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "SPIQY",
-      "name": "🥝爱奇艺(官)",
-      "type": 3,
-      "api": "csp_IQIYI",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+            {
+            "key" : "drpy_js_奇珍异兽",
+            "name" : "官源|爱奇艺[DRPY]",
+            "type" : 3,
+            "api" : "https://gitlab.com/tangxin80661/tx/-/raw/main/lib/drpy.min.js",
+            "ext" : "https://gitlab.com/tangxin80661/tx/-/raw/main/js/%E5%A5%87%E7%8F%8D%E5%BC%82%E5%85%BD.js"
+        },
     {
       "key": "MGT",
       "name": "🥭芒果(官)",
