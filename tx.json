@@ -726,16 +726,6 @@
       "filterable": 0,
       "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/%E9%85%B7%E5%A5%87MV.json"
     },
-    {
-      "key": "csp_Alist",
-      "name": "🗂Alist合集",
-      "type": 3,
-      "api": "csp_Alist",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/Alist.json"
-    },
 
     {
       "key": "csp_bendi",
