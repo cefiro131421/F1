@@ -31,16 +31,7 @@
       "filterable": 0,
       "ext": "https://gitlab.com/tangxin80661/tx/-/raw/main/js/%E5%A4%A7%E5%B8%88%E5%85%84%E5%BD%B1%E8%A7%86.js"
     },
-    {
-      "key": "csp_xBPQ_厂长资源",
-      "name": "🏭厂长资源",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://gitlab.com/tangxin80661/tx/-/raw/main/json/%E5%8E%82%E9%95%BF%E8%B5%84%E6%BA%90.json"
-    },
+
     {
       "key": "dr_BD影视",
       "name": "🍀BD影视(drpy)",
