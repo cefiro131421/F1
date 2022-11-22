@@ -2,7 +2,7 @@
 
 
 
-name: F1-sync
+name: TV-sync
 on:
   schedule:
     - cron: '6 */3 * * *'
@@ -10,7 +10,7 @@ on:
   watch:
     types: started
   repository_dispatch:
-    types: sync-F1-Script
+    types: sync-TV-Script
 jobs:
   repo-sync:
     env:
@@ -22,7 +22,7 @@ jobs:
         with:
           persist-credentials: false
 
-      - name: sync F1-Script
+      - name: sync TV-Script
         uses: repo-sync/github-sync@v2
         if: env.PAT
         with:
