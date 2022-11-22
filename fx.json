@@ -3,7 +3,7 @@
   "sites": [
 {
       "key": "T4_douban",
-      "name": "接口即将停用添加微信获取最新",
+      "name": "停用添加微信获取tangxin1998",
       "type": 4,
       "api": "http://top.fuqizhishi.com/vod",
       "searchable": 1,
