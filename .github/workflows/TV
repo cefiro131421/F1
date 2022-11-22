@@ -1,0 +1,32 @@
+## 每隔3小时拉取一次作者脚本到自己仓库的分支
+
+
+
+name: F1-sync
+on:
+  schedule:
+    - cron: '6 */3 * * *'
+  workflow_dispatch:
+  watch:
+    types: started
+  repository_dispatch:
+    types: sync-F1-Script
+jobs:
+  repo-sync:
+    env:
+      PAT: ${{ secrets.PAT }} 
+    runs-on: ubuntu-latest
+    if: github.event.repository.owner.id == github.event.sender.id
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          persist-credentials: false
+
+      - name: sync F1-Script
+        uses: repo-sync/github-sync@v2
+        if: env.PAT
+        with:
+          source_repo: "https://gitlab.com/tangxin80661/tx.git"
+          source_branch: "main"
+          destination_branch: "TV"
+          github_token: ${{ secrets.PAT }}
