@@ -7,6 +7,59 @@
 密码获取,http://52bsj.vip:81/api/v3/file/get/61686/tx.mp4.mp4?sign=PAQgFvB1Rjlho3lCnbXaLZZElVwYWOFMac-sY9f9w8E%3D%3A0
 4K超清绝美风景，治愈系，让你忘掉烦恼，遨游美景,https://vd2.bdstatic.com/mda-mkpdkxtygu866ah6/fhd/cae_h264_nowatermark/1637761886281781176/mda-mkpdkxtygu866ah6.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1668358879-0-0-9178622b41812781f65cccc844d7674e&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1879319388&vid=7542555763177976626&abtest=104959_2&klogid=1879319388
 
+🐂｜唐鑫测试4K,#genre#
+BTV纪实科教-8KSDR源,http://111.62.156.15/down.brtvcloud.com/brtv8kapptv/brtv8kapp8ktv.m3u8
+苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+抖音4K世界杯SDR源,http://mmmitv.top/test/douyin-x.php?id=rand
+抖音4K世界杯SDR源备,http://www.mmitv.top/test/douyin-x.php?id=rand
+纯享4K,http://111.20.105.192:6610/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
+欢笑剧场4K,http://111.20.105.192:6610/000000001000/5000000007000010001/index.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=3
+CCTV16-4K-SDR源,http://111.20.105.192:6610/000000001000/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
+CCTV16-4K-25PHLG源,http://live.cooltv.top/tv/aishang.php?id=cctv164k
+CCTV16-4K-50P-IPV6-HLG源,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
+CCTV4K-25P-HLG源,http://159.75.85.63:8280/cctv4k.php
+4K-TEST,https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/telegram/introduce.m3u8
+4K影视,http://111.20.105.192:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
+爱上4K,http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
+咪咕体育-4K-HLG源,http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls
+咪咕体育-4K-HLG源-2,http://117.136.156.3:80/000000001000/3000000010000005180/index.m3u8
+咪咕体育-4K-HLG源-3,http://39.135.42.203:80/000000001000/3000000010000005180/index.m3u8?
+Fashion4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+Clarity4K,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
+爱自然,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+MUZZIK ZZ4000 4K,http://muzzik-live.morescreens.com/mts-a6/playlist.m3u8
+loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+Bloomberg TV+ 4K,https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+斗鱼4K,http://epg.112114.xyz/douyu/9249162
+CCTV5-高清(1),http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
+CCTV5-高清(2),http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
+CCTV5-高清(3),http://159.75.85.63:828/shijiebei/sjb.php?id=3007t
+CCTV5-高清(4),http://111.29.9.37:6610/000000001000/1000000005000025222/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222
+CCTV5-高清(5),http://111.29.9.42:6610/000000001000/1000000005000025222/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222
+五星体育(1),http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
+五星体育(2),http://14.205.73.133/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
+五星体育(3),http://111.29.9.48:6610/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
+广东体育,http://120.84.96.73:808/hls/22/index.m3u8
+广东体育（备）,http://e59abdd420c65d43cc1550d493a88c71.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
+广东体育(备1),http://113.64.147.6:808/hls/1/index.m3u8
+广东体育(备2),http://120.84.96.26:808/hls/22/index.m3u8
+广东体育(备3),http://120.84.96.33:808/hls/22/index.m3u8
+南国都市,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzngds
+南国都市(备),https://justsometime.gztv.com/sec/shenghuos.m3u8
+江苏8K测试,http://ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
+CCTV4K 16M2160,http://ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
+CCTV16-4K 18M2160,http://ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8
+CCTV16-4K 25M2160,http://ott.mobaibox.com/PLTV/3/224/3221228168/index.m3u8
+CCTV16-4K 34M2160HLG,http://ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
+SiTV欢笑剧场 12M2160,http://ott.mobaibox.com/PLTV/3/224/3221227715/index.m3u8
+纯享4K 25M2160HDR,http://ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
+纯享4K 16M2160,http://ott.mobaibox.com/PLTV/3/224/3221227506/index.m3u8
+纯享4K 30M2160HLG,http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
+4K修复 7M2160HEVC,http://ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
+广东综艺-4K-50P-HLG,http://gslb.gcable.cn:8070/live/GDZYHD4K_38000.m3u8?t=A5ZjU2OThiNjAxMzExMTBkN==&u=freeuser&p=8&pid=&cid=&d=b60131110d72d53&sid=LfGo/65i7+2owDOniEwWhw==&r=20221122024116&e=20221123024121&nc=DSkrjONfhztQ&a=7&v=2
+CCTV-4K-50P-HLG,http://gslb.gcable.cn:8070/live/4005.m3u8?t=A5ZjU2OThiNjAxMzExMTBkN==&u=freeuser&p=8&pid=&cid=&d=b60131110d72d53&sid=LfGo/65i7+2owDOniEwWhw==&r=20221122024116&e=20221123024121&nc=DSkrjONfhztQ&a=7&v=2
+CCTV16-4K-50P-HLG,http://gslb.gcable.cn:8070/live/4010.m3u8?t=A5ZjU2OThiNjAxMzExMTBkN==&u=freeuser&p=8&pid=&cid=&d=b60131110d72d53&sid=LfGo/65i7+2owDOniEwWhw==&r=20221122024116&e=20221123024121&nc=DSkrjONfhztQ&a=7&v=2
+
 
 🇨🇳｜央视频道,#genre#
 CCTV-1综合,http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
