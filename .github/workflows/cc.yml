@@ -13,10 +13,7 @@ jobs:
       PAT: ${{ secrets.PAT }} 
     runs-on: ubuntu-latest
     if: github.event.repository.owner.id == github.event.sender.id
-    steps:
-      - uses: actions/checkout@v2
-        with:
-          persist-credentials: false
+
 strategy:
       matrix:
         node-version: [16.x]
