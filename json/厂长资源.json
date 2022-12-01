@@ -1,7 +1,7 @@
 {
     "规则名": "厂长影视",
     "规则作者": "香雅情",
-    "请求头参数": "PC_UA",
+    "请求头参数": "User-Agent$PC_UA#Referer$https://czspp.com",
     "网页编码格式": "UTF-8",
     "图片是否需要代理": "1",
     "是否开启获取首页数据": "1",
@@ -25,7 +25,7 @@
     "分类片单副标题": ".jidi||.qb&&Text",
     "分类片单链接加前缀": "",
     "分类片单链接加后缀": "",
-    "搜索请求头参数": "User-Agent$PC_UA",
+    "搜索请求头参数": "User-Agent$PC_UA#Referer$https://czspp.com",
     "搜索链接": "https://czspp.com/xssearch?q={wd}&f=_all&p=1",
     "POST请求数据": "",
     "搜索截取模式": "1",
