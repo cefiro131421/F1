@@ -671,7 +671,7 @@
           "include": ["HDR","高码"],
           "exclude": ["预告", "花絮"]
         },
-        "commonConfig": "./json/peizhi.json"
+        "commonConfig": "./json/baidu.txt"
       }
     },
     {
@@ -1316,3 +1316,4 @@
     }
   ]
 }
+
