@@ -97,7 +97,7 @@ hostname = ms.jr.jd.com, me-api.jd.com, api.m.jd.com
 
 [rewrite_local]
 # 获取京东Cookie. 
-^https:\/\/api\.m\.jd\.com\/api\?functionId=pingou_webmonitor_biz(?:&|$) url script-request-header https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js
+^https:\/\/api\.m\.jd\.com\/api\?functionId=pingou_webmonitor_biz(?:&|$) url script-request-header https://raw.githubusercontent.com/cefiro131421/F1/refs/heads/main/JD_extra_cookie.js
 
 # 获取钢镚签到body. 
 ^https:\/\/ms\.jr\.jd\.com\/gw\/generic\/hy\/h5\/m\/appSign\? url script-request-body https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js
