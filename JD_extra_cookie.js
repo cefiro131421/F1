@@ -70,7 +70,7 @@ var OtherKey = `[{
 [Script]
 京东多合一签到 = type=cron,cronexp=5 0 * * *,wake-system=1,timeout=60,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js
 
-获取京东Cookie = type=http-request,pattern=^https:\/\/api\.m\.jd\.com\/api\?functionId=pingou_webmonitor_biz(?:&|$),script-path=https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js
+获取京东Cookie = type=http-request,pattern=^https:\/\/api\.m\.jd\.com\/api\?functionId=(?:pingou_webmonitor_biz|weGameHeartbeat)(?:&|$),script-path=https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js
 
 [MITM]
 hostname = ms.jr.jd.com, me-api.jd.com, api.m.jd.com
@@ -82,7 +82,7 @@ hostname = ms.jr.jd.com, me-api.jd.com, api.m.jd.com
 [Script]
 cron "5 0 * * *" tag=京东多合一签到, script-path=https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js
 
-http-request ^https:\/\/api\.m\.jd\.com\/api\?functionId=pingou_webmonitor_biz(?:&|$) tag=获取京东Cookie, script-path=https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js
+http-request ^https:\/\/api\.m\.jd\.com\/api\?functionId=(?:pingou_webmonitor_biz|weGameHeartbeat)(?:&|$) tag=获取京东Cookie, script-path=https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js
 
 [MITM]
 hostname = ms.jr.jd.com, me-api.jd.com, api.m.jd.com
@@ -93,14 +93,14 @@ hostname = ms.jr.jd.com, me-api.jd.com, api.m.jd.com
 
 [task_local]
 # 京东多合一签到
-5 0 * * * https://raw.githubusercontent.com/cefiro131421/F1/refs/heads/main/JD_extra_cookie.js, tag=京东多合一签到, img-url=https://raw.githubusercontent.com/NobyDa/mini/master/Color/jd.png,enabled=true
+5 0 * * * https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js, tag=京东多合一签到, img-url=https://raw.githubusercontent.com/NobyDa/mini/master/Color/jd.png,enabled=true
 
 [rewrite_local]
 # 获取京东Cookie. 
-^https:\/\/api\.m\.jd\.com\/api\?functionId=pingou_webmonitor_biz(?:&|$) url script-request-header https://raw.githubusercontent.com/cefiro131421/F1/refs/heads/main/JD_extra_cookie.js
+^https:\/\/api\.m\.jd\.com\/api\?functionId=pingou_webmonitor_biz(?:&|$) url script-request-header https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js
 
 # 获取钢镚签到body. 
-^https:\/\/ms\.jr\.jd\.com\/gw\/generic\/hy\/h5\/m\/appSign\? url script-request-body https://raw.githubusercontent.com/cefiro131421/F1/refs/heads/main/JD_extra_cookie.js
+^https:\/\/ms\.jr\.jd\.com\/gw\/generic\/hy\/h5\/m\/appSign\? url script-request-body https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js
 
 [mitm]
 hostname = ms.jr.jd.com, me-api.jd.com, api.m.jd.com
@@ -1704,7 +1704,7 @@ function GetCookie() {
   if (req.method != 'OPTIONS' && req.headers) {
     const CV = (req.headers['Cookie'] || req.headers['cookie'] || '');
     const ckItems = CV.match(/(pt_key|pt_pin)=.+?;/g);
-    if (/^https:\/\/api\.m\.jd\.com\/api\?functionId=pingou_webmonitor_biz(?:&|$)/.test(req.url)) {
+    if (/^https:\/\/api\.m\.jd\.com\/api\?functionId=(?:pingou_webmonitor_biz|weGameHeartbeat)(?:&|$)/.test(req.url)) {
       if (ckItems && ckItems.length == 2) {
         const value = CookieUpdate(null, ckItems.join(''))
         if (value.type !== -1) {
